@@ -29,7 +29,7 @@ body {
 }
 
 /* Style the nav bar */
-.header nav {
+.header div {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -38,12 +38,12 @@ body {
 }
 
 /* Remove bullet points from the nav bar links */
-.header nav ul {
+.header div ul {
     list-style-type: none;
 }
 
 /* Style the nav bar links */
-.header nav ul li {
+.header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
